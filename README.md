@@ -25,7 +25,7 @@ pip install .
 Note: The patch has been tested on **OpenSMOG v1.2** (with **OpenMM 8.1**) but can work with older version **OpenSMOG v1.1.1** (with OpenMM 7.7).
 ____
 #### Usage overview
-In addition to OpenSMOG input structure (.gro) and topology (.top & .xml) files, OpenSMOGmod requires an additional XML (.xml) file with <OpenSMOGmod> as the root tag. 
+In addition to OpenSMOG input structure (.gro) and topology (.top & .xml) files, OpenSMOGmod requires an additional XML (.xml) file with "OpenSMOGmod" as the root tag. 
 ```XML
 <OpenSMOGmod>
  <manyparticle>
@@ -75,4 +75,4 @@ ____
 #### Usefull likes
 [OpenSMOG](https://github.com/smog-server/OpenSMOG): Software for running SBM simulations using OpenMM. <br>
 [SuBMIT](https://github.com/sglabncbs/submit): Toolkit for generating CG-SBM input files for MD on OpenSMOG, OpenSMOGmod or GROMACS. <br>
-[Legacy OpenSMOGmd](https://github.com/digvijaylp/OpenSMOGmod_legacyfork): Legacy version with modifications made on fork of OpenSMOG v1.1.1.<br>
+[Legacy OpenSMOGmod](https://github.com/digvijaylp/OpenSMOGmod_legacyfork): Legacy version with modifications made on fork of OpenSMOG v1.1.1.<br>
