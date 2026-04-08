@@ -73,6 +73,6 @@ This program is released under the MIT License. A copy of the license is include
 
 ____
 #### Usefull likes
-[OpenSMOG]((https://github.com/smog-server/OpenSMOG)): Software for running SBM simulations using OpenMM. 
-[SuBMIT](https://github.com/sglabncbs/submit): Toolkit for generating CG-SBM input files for MD on OpenSMOG, OpenSMOGmod or GROMACS. 
-[Legacy OpenSMOGmd](https://github.com/digvijaylp/OpenSMOGmod_legacyfork): Legacy version with modifications made on fork of OpenSMOG v1.1.1.
+[OpenSMOG](https://github.com/smog-server/OpenSMOG): Software for running SBM simulations using OpenMM. <br>
+[SuBMIT](https://github.com/sglabncbs/submit): Toolkit for generating CG-SBM input files for MD on OpenSMOG, OpenSMOGmod or GROMACS. <br>
+[Legacy OpenSMOGmd](https://github.com/digvijaylp/OpenSMOGmod_legacyfork): Legacy version with modifications made on fork of OpenSMOG v1.1.1.<br>
