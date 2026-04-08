@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "OpenSMOGmod"
+version = "2.0.0"
+authors = [{ name="Digvijay L. Prakash"}]
+description = "A plugin for OpenSMOG  with support for additional potential energy terms."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["lxml>=4.6.2","OpenMM>=8.1.0","OpenSMOG>=1.2"]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.package-data]
+OpenSMOGmod = ["*.xsd"]
+
+[project.urls]
+"Homepage" = "https://github.com/digvijaylp/OpenSMOGmod"
+"Bug Tracker" = "https://github.com/digvijaylp/OpenSMOGmod/issues"
