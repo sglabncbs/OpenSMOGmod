@@ -1,0 +1,3 @@
+lxml>=4.6.2
+OpenMM>=8.1.0
+OpenSMOG>=1.2
