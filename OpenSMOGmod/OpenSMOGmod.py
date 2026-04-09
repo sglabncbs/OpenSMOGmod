@@ -21,7 +21,7 @@ class SBM(SBM):
         
         Please report issues at github.com/digvijaylp/OpenSMOGmod.
         
-        Copyright (C) <2023-present>  <Digvijay Lalwani Prakash>
+        Copyright (C) <2023-2026>  <Digvijay Lalwani Prakash>
         This program is released under the MIT License. 
         A copy of MIT License is included along with this program.
 
