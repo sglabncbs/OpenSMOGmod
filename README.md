@@ -44,7 +44,7 @@ In addition to OpenSMOG input structure (.gro) and topology (.top & .xml) files,
  <contacts>
  ...
  </contacts>
-<!-- Mod-lines srarts -->
+<!-- Mod-lines starts -->
  <?OpenSMOGmod>
   <manyparticle>
    ...

@@ -150,7 +150,7 @@ class SBM(SBM):
         modmissing=0
         for mp in self.list_of_potential_terms:
             if root.find(mp) is None: modmissing+=1
-        if modmissing!=0:
+        if modmissing==2:
             SBM.opensmog_quit('No OpenSMOGmod potential term found. Please import SBM directly from OpenSMOG. OpenSMOGmod potential terms include: '+str(self.list_of_potential_terms))
             
 
